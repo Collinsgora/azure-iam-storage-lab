@@ -592,4 +592,4 @@ This lab directly maps to the following AZ-104 exam objectives:
 *This project is part of my AZ-104 Microsoft Azure Administrator certification lab series. Built on a live Azure subscription — no sandboxes, no simulations.*
 
 **Collins Gora** | Cloud Security Professional | Cape Town, South Africa  
-`AZ-900` ✅ | `MS-900` ✅ | `SC-900` ✅ | `Security+` ✅ | `AZ-104` 🔄 | `AZ-500` 🔄
+
